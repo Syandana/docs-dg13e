@@ -6,8 +6,8 @@ Siapa aja sih yang pernah mimpin kelas DG-E angkatan 13?
 | ----------------- | ----------------------- |
 | Ketua Kelas       | Rahadika Putra Aryanata |
 | Wakil Ketua Kelas | Bobby Nugraha           |
-| Sekertaris 1      |                         |
-| Sekertaris 2      |                         |
+| Sekertaris 1      | nama-namanya siapa lagi ya? |
+| Sekertaris 2      | gw ga hapal wkwk|
 |                   |                         |
 |                   |                         |
 |                   |                         |

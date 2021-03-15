@@ -8,7 +8,7 @@ Siapa aja sih yang pernah mengajar kelas DG-E angkatan 13?
 | Gambar Bentuk       | Bpk. Udhi Marsudi S.Sn., M.Sn. |
 | Pendidikan Pancasila| Bpk. Yudha Pratama             |
 | Nirmana Dwimatra    | Ibu Pratiwi                    |
-|        |                 |
+| smst 1 ada matkul apa lagi ges?       | gw lupa wkwk |
 |  |            |
 |     |              |
 
