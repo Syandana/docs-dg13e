@@ -1,11 +1,11 @@
 export default {
-  repository: 'https://github.com/shuding/nextra',
-  titleSuffix: ' – Nextra',
+  repository: 'https://github.com/Syandana/docs-dg13e',
+  titleSuffix: ' – DG2E',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Nextra</span>
+      <span className="mr-2 font-extrabold hidden md:inline">DG2E</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        The Next Site Builder
+        Emang Beda
       </span>
     </>
   ),
@@ -36,6 +36,6 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: true,
-  footerEditOnGitHubLink: true,
-  footerText: <>MIT {new Date().getFullYear()} © Nextra.</>
+  footerEditOnGitHubLink: false,
+  footerText: <>MIT {new Date().getFullYear()} © Syandsign Studio.</>
 }
