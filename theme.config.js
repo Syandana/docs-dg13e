@@ -17,7 +17,7 @@ export default {
       <meta httpEquiv="Content-Language" content="en" />
       <meta name="description" content="emang beda" />
       <meta name="og:description" content="emang beda" />
-      <meta name="twitter:card" content="summary_large_image" />
+      {/* <meta name="twitter:card" content="summary_large_image" /> */}
       <meta name="twitter:image" content="https://external-preview.redd.it/EO6fS_WfR5dYFNu9dIj-sOGoDiegIZnpop5Nr_-oJBY.png?format=pjpg&auto=webp&s=e07823343804c69842e03f4509cb8c95c9670986" />
       <meta name="twitter:site:domain" content="nextra.vercel.app" />
       <meta name="twitter:url" content="https://nextra.vercel.app" />
