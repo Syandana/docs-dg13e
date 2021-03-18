@@ -7,7 +7,7 @@ Tugas yang lagi berjalan:
 | --------------------------------------------------- | ---------------- | ----------------- | -------------------- |
 | Sketsa anatomi wajah (laki, cw, anak laki, anak cw) | Gambar Sketsa    | Classroom         | 24 Maret 2021, 17:00 |
 | Nirmana Mika                                        | Semangat Nirmana | Acc. Ka dara/ucup | 24 Maret 2021        |
-|                                                     |                  |                   |                      |
+| Kerning                                             | Tipografi        | WA Pak Hari       | 25 Maret 2021        |
 |                                                     |                  |                   |                      |
 
 Tugas yang udah lewat:
