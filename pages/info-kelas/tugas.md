@@ -6,7 +6,7 @@ Tugas yang lagi berjalan:
 | Nama Tugas                                                   | Mata Kuliah      | Ngumpulin Kemana? | Deadline             |
 | ------------------------------------------------------------ | ---------------- | ----------------- | -------------------- |
 | Sketsa anatomi wajah, tubuh, duduk, berdiri, jalan, loncat, meluncur (laki, cw, anak laki, anak cw) | Gambar Sketsa    | Classroom         | 24 Maret 2021, 17:00 |
-| Nirmana Mika                                                 | Semangat Nirmana | Acc. Ka dara/ucup | 24 Maret 2021        |
+| Nirmana Mika                                                 | Nirmana Trimatra | Acc. Ka dara/ucup | 24 Maret 2021        |
 | Kerning                                                      | Tipografi        | WA Pak Hari       | 25 Maret 2021        |
 | Graphic Standard Manual                                      | Identitas Visual | WA Pak RG         | Secepatnya wkwk      |
 
