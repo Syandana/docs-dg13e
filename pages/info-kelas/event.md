@@ -3,7 +3,7 @@ Disini adalah list acara-acara kelas yang sedang berlangsung atau yang akan data
 
 | Event           | Tanggal       | Deskripsi           |
 | --------------- | ------------- | ------------------- |
-| Bahas Tugas GSM | 21 Maret 2021 | Link Join: menyusul |
+| Bahas Tugas GSM | 23 Maret 2021 | Link Join: menyusul |
 |                 |               |                     |
 
 Event yang sudah lewat:
