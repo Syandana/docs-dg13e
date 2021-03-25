@@ -5,7 +5,7 @@ Tugas yang lagi berjalan:
 
 | Nama Tugas              | Mata Kuliah      | Ngumpulin Kemana? | Deadline        |
 | ----------------------- | ---------------- | ----------------- | --------------- |
-| Nirmana Mika            | Nirmana Trimatra | Acc. Ka dara/ucup | 24 Maret 2021   |
+| Nirmana Mika            | Nirmana Trimatra | Acc. Ka dara/ucup | 28 Maret 2021   |
 | Text Impact             | Tipografi        | WA Pak Hari       | 1 April 2021    |
 | Tugas Gambar Monster    | Studi Kreatif    | Classroom         | 6 April 2021    |
 | Graphic Standard Manual | Identitas Visual | WA Pak RG         | Secepatnya wkwk |
