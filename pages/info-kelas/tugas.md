@@ -3,19 +3,19 @@ Disini kalian bisa menemukan semua daftar tugas yang udah dikasih sama dosen. Ka
 
 Tugas yang lagi berjalan:
 
-| Nama Tugas              | Mata Kuliah      | Ngumpulin Kemana?     | Deadline             |
-| ----------------------- | ---------------- | --------------------- | -------------------- |
-| Sport Poster            | Digital Imaging  | daugeschool@gmail.com | 29 Maret 2021, 20:00 |
-| Text Impact             | Tipografi        | WA Pak Hari           | 1 April 2021         |
-| Tugas Gambar Monster    | Studi Kreatif    | Classroom             | 6 April 2021         |
-| Graphic Standard Manual | Identitas Visual | WA Pak RG             | Secepatnya wkwk      |
+| Nama Tugas              | Mata Kuliah      | Ngumpulin Kemana? | Deadline        |
+| ----------------------- | ---------------- | ----------------- | --------------- |
+| Text Impact             | Tipografi        | WA Pak Hari       | 1 April 2021    |
+| Tugas Gambar Monster    | Studi Kreatif    | Classroom         | 6 April 2021    |
+| Graphic Standard Manual | Identitas Visual | WA Pak RG         | Secepatnya wkwk |
 
 Tugas yang udah lewat:
 
-| Nama Tugas                        | Mata Kuliah      | Ngumpulin Kemana? | Deadline             |
-| --------------------------------- | ---------------- | ----------------- | -------------------- |
-| Buat 5 kata dengan bad legibility | Tipografi        | WA pak hari       | 17 Maret 2021        |
-| Sketsa anatomi                    | Gambar Sketsa    | Classroom         | 24 Maret 2021, 17:00 |
-| Kerning                           | Tipografi        | WA Pak Hari       | 25 Maret 2021        |
-| Nirmana Mika                      | Nirmana Trimatra | Acc. Ka dara/ucup | 28 Maret 2021        |
+| Nama Tugas                        | Mata Kuliah      | Ngumpulin Kemana?     | Deadline             |
+| --------------------------------- | ---------------- | --------------------- | -------------------- |
+| Buat 5 kata dengan bad legibility | Tipografi        | WA pak hari           | 17 Maret 2021        |
+| Sketsa anatomi                    | Gambar Sketsa    | Classroom             | 24 Maret 2021, 17:00 |
+| Kerning                           | Tipografi        | WA Pak Hari           | 25 Maret 2021        |
+| Nirmana Mika                      | Nirmana Trimatra | Acc. Ka dara/ucup     | 28 Maret 2021        |
+| Sport Poster                      | Digital Imaging  | daugeschool@gmail.com | 29 Maret 2021, 20:00 |
 
