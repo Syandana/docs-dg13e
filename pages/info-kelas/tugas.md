@@ -5,8 +5,8 @@ Tugas yang lagi berjalan:
 
 | Nama Tugas              | Mata Kuliah      | Ngumpulin Kemana? | Deadline        |
 | ----------------------- | ---------------- | ----------------- | --------------- |
-| Text Impact             | Tipografi        | WA Pak Hari       | 1 April 2021    |
 | Tugas Gambar Monster    | Studi Kreatif    | Classroom         | 6 April 2021    |
+| Bjirmana Kawat          | Nirmana Trimatra | WA Ka dara/ucup   | Gatau           |
 | Graphic Standard Manual | Identitas Visual | WA Pak RG         | Secepatnya wkwk |
 
 Tugas yang udah lewat:
@@ -18,4 +18,5 @@ Tugas yang udah lewat:
 | Kerning                           | Tipografi        | WA Pak Hari           | 25 Maret 2021        |
 | Nirmana Mika                      | Nirmana Trimatra | Acc. Ka dara/ucup     | 28 Maret 2021        |
 | Sport Poster                      | Digital Imaging  | daugeschool@gmail.com | 29 Maret 2021, 20:00 |
+| Text Impact                       | Tipografi        | WA Pak Hari           | 1 April 2021         |
 
