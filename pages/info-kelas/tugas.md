@@ -3,12 +3,13 @@ Disini kalian bisa menemukan semua daftar tugas yang udah dikasih sama dosen. Ka
 
 Tugas yang lagi berjalan:
 
-| Nama Tugas              | Mata Kuliah          | Ngumpulin Kemana? | Deadline     |
-| ----------------------- | -------------------- | ----------------- | ------------ |
-| Tugas Gambar Monster    | Studi Kreatif        | Classroom         | 6 April 2021 |
-| Graphic Standard Manual | Identitas Visual     | WA Pak RG         | 6 April 2021 |
-| Karakter Huruf          | Pengantar Typography | WA Pak Hari       | 8 April 2021 |
-| Bjirmana Kawat          | Nirmana Trimatra     | WA Ka dara/ucup   | Gatau        |
+| Nama Tugas                    | Mata Kuliah          | Ngumpulin Kemana? | Deadline      |
+| ----------------------------- | -------------------- | ----------------- | ------------- |
+| Tugas Gambar Monster          | Studi Kreatif        | Classroom         | 6 April 2021  |
+| Graphic Standard Manual       | Identitas Visual     | WA Pak RG         | 6 April 2021  |
+| Karakter Huruf                | Pengantar Typography | WA Pak Hari       | 8 April 2021  |
+| Sketsa Suasana Stasiun Kereta | Gambar Sketsa        | Classroom         | 11 April 2021 |
+| Bjirmana Kawat                | Nirmana Trimatra     | WA Ka dara/ucup   | Gatau         |
 
 Tugas yang udah lewat:
 
