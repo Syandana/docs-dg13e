@@ -7,6 +7,7 @@ Tugas yang lagi berjalan:
 | ----------------------------- | -------------------- | ----------------- | ------------- |
 | Karakter Huruf                | Pengantar Typography | WA Pak Hari       | 8 April 2021  |
 | Sketsa Suasana Stasiun Kereta | Gambar Sketsa        | Classroom         | 11 April 2021 |
+| Mini Layout                   | Pengantar Typography | WA Pak Hari       | 15 April 2021 |
 | Bjirmana Kawat                | Nirmana Trimatra     | WA Ka dara/ucup   | 16 April 2021 |
 
 Tugas yang udah lewat:
