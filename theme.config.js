@@ -37,5 +37,5 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditOnGitHubLink: false,
-  footerText: <>MIT {new Date().getFullYear()} © Syandsign Studio.</>
+  footerText: <>{new Date().getFullYear()} © Syandsign Studio.</>
 }
