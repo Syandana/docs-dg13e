@@ -8,4 +8,4 @@ Terimakasih,
 
 Rizqy Syandana Putra
 
-> P.S. Jika kalian mempunyai info apapun yang ingin ditambahkan, silahkan hubungi gw atau pengurus kelas.
+> P.S. Jika kalian mempunyai info apapun yang ingin ditambahkan, silahkan hubungi gw. Dan jika kalian ingin ikut berkontribusi, bisa juga chat gw. Thanks all!
