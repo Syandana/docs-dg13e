@@ -14,7 +14,7 @@ export default {
       <meta name="msapplication-TileColor" content="#ffffff" />
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <meta httpEquiv="Content-Language" content="en" />
+      <meta httpEquiv="Content-Language" content="id" />
       <meta name="description" content="emang beda" />
       <meta name="og:description" content="emang beda" />
       {/* <meta name="twitter:card" content="summary_large_image" /> */}
