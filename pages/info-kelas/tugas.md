@@ -3,23 +3,23 @@ Disini kalian bisa menemukan semua daftar tugas yang udah dikasih sama dosen. Ka
 
 Tugas yang lagi berjalan:
 
-| Nama Tugas                    | Mata Kuliah          | Ngumpulin Kemana? | Deadline      |
-| ----------------------------- | -------------------- | ----------------- | ------------- |
-| Sketsa Suasana Stasiun Kereta | Gambar Sketsa        | Classroom         | 11 April 2021 |
-| Mini Layout                   | Pengantar Typography | WA Pak Hari       | 15 April 2021 |
-| Bjirmana Kawat                | Nirmana Trimatra     | WA Ka dara/ucup   | 16 April 2021 |
+| Nama Tugas                    | Mata Kuliah          | Deadline      |
+| ----------------------------- | -------------------- | ------------- |
+| Sketsa Suasana Stasiun Kereta | Gambar Sketsa        | 11 April 2021 |
+| Mini Layout                   | Pengantar Typography | 15 April 2021 |
+| Bjirmana Kawat                | Nirmana Trimatra     | 16 April 2021 |
 
 Tugas yang udah lewat:
 
-| Nama Tugas                        | Mata Kuliah          | Ngumpulin Kemana?     | Deadline             |
-| --------------------------------- | -------------------- | --------------------- | -------------------- |
-| Buat 5 kata dengan bad legibility | Tipografi            | WA pak hari           | 17 Maret 2021        |
-| Sketsa anatomi                    | Gambar Sketsa        | Classroom             | 24 Maret 2021, 17:00 |
-| Kerning                           | Tipografi            | WA Pak Hari           | 25 Maret 2021        |
-| Nirmana Mika                      | Nirmana Trimatra     | Acc. Ka dara/ucup     | 28 Maret 2021        |
-| Sport Poster                      | Digital Imaging      | daugeschool@gmail.com | 29 Maret 2021, 20:00 |
-| Text Impact                       | Tipografi            | WA Pak Hari           | 1 April 2021         |
-| Tugas Gambar Monster              | Studi Kreatif        | Classroom             | 6 April 2021         |
-| Graphic Standard Manual           | Identitas Visual     | WA Pak RG             | 6 April 2021         |
-| Karakter Huruf                    | Pengantar Typography | WA Pak Hari           | 8 April 2021         |
+| Nama Tugas                        | Mata Kuliah          | Deadline             |
+| --------------------------------- | -------------------- | -------------------- |
+| Buat 5 kata dengan bad legibility | Tipografi            | 17 Maret 2021        |
+| Sketsa anatomi                    | Gambar Sketsa        | 24 Maret 2021, 17:00 |
+| Kerning                           | Tipografi            | 25 Maret 2021        |
+| Nirmana Mika                      | Nirmana Trimatra     | 28 Maret 2021        |
+| Sport Poster                      | Digital Imaging      | 29 Maret 2021, 20:00 |
+| Text Impact                       | Tipografi            | 1 April 2021         |
+| Tugas Gambar Monster              | Studi Kreatif        | 6 April 2021         |
+| Graphic Standard Manual           | Identitas Visual     | 6 April 2021         |
+| Karakter Huruf                    | Pengantar Typography | 8 April 2021         |
 
