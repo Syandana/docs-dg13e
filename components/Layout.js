@@ -1,5 +1,6 @@
 import React, { Component } from "react"
 import { initGA, logPageView } from "./googleAnalytics.js"
+import Head from 'next/head'
 
 export default class Layout extends Component {
   componentDidMount() {
@@ -13,7 +14,12 @@ export default class Layout extends Component {
   render() {
     return (
       <div>
-        {this.props.children}
+        <Head>
+          <link href="/styles/main/styles.css" rel="stylesheet" />
+        </Head>
+        <div>
+          {this.props.children}
+        </div>
       </div>
     )
   }
