@@ -15,7 +15,7 @@ Dengan Typora ini, kalian bisa membuat dokumen dengan mudah. Dibawah ini gw memb
 | Links            | ctrl + k   | Membuat text hyperlink                                       |
 | Images           | -          | *Untuk penggunaan image pada artikel hubungi Dana terlebih dahulu* |
 
-## Contoh Penggunaannya
+**Contoh Penggunaannya**
 
 # Heading 1
 
