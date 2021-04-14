@@ -3,11 +3,12 @@ Disini kalian bisa menemukan semua daftar tugas yang udah dikasih sama dosen. Ka
 
 Tugas yang lagi berjalan:
 
-| Nama Tugas           | Mata Kuliah          | Deadline             | Kumpulin Kemana? |
-| -------------------- | -------------------- | -------------------- | ---------------- |
-| Mini Layout          | Pengantar Typography | 15 April 2021        | WA Pak Hari      |
-| Bjirmana Kawat       | Nirmana Trimatra     | 16 April 2021        | ACC Ka dara/ucup |
-| Sketsa Tempat Wisata | Gambar Sketsa        | 26 April 2021, 17:00 | Classroom        |
+| Nama Tugas              | Mata Kuliah          | Deadline             | Kumpulin Kemana? |
+| ----------------------- | -------------------- | -------------------- | ---------------- |
+| Mini Layout             | Pengantar Typography | 15 April 2021        | WA Pak Hari      |
+| Bjirmana Kawat          | Nirmana Trimatra     | 16 April 2021        | ACC Ka dara/ucup |
+| Sketsa Tempat Wisata    | Gambar Sketsa        | 26 April 2021, 17:00 | Classroom        |
+| Creative Visual Concept | Studi Kreatif        | belum tau            | Classroom        |
 
 Tugas yang udah lewat:
 
