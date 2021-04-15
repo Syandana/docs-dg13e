@@ -8,7 +8,7 @@ Tugas yang lagi berjalan:
 | Mini Layout             | Pengantar Typography | 15 April 2021        | WA Pak Hari      |
 | Bjirmana Kawat          | Nirmana Trimatra     | 16 April 2021        | ACC Ka dara/ucup |
 | Sketsa Tempat Wisata    | Gambar Sketsa        | 26 April 2021, 17:00 | Classroom        |
-| Creative Visual Concept | Studi Kreatif        | belum tau            | Classroom        |
+| Creative Visual Concept | Studi Kreatif        | 28 April 2021        | Classroom        |
 
 Tugas yang udah lewat:
 
