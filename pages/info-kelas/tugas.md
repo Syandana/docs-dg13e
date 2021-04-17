@@ -5,8 +5,7 @@ Tugas yang lagi berjalan:
 
 | Nama Tugas              | Mata Kuliah          | Deadline             | Kumpulin Kemana? |
 | ----------------------- | -------------------- | -------------------- | ---------------- |
-| Mini Layout             | Pengantar Typography | 15 April 2021        | WA Pak Hari      |
-| Bjirmana Kawat          | Nirmana Trimatra     | 16 April 2021        | ACC Ka dara/ucup |
+| Mini Layout             | Pengantar Typography | 22 April 2021        | WA Pak Hari      |
 | Sketsa Tempat Wisata    | Gambar Sketsa        | 26 April 2021, 17:00 | Classroom        |
 | Creative Visual Concept | Studi Kreatif        | 28 April 2021        | Classroom        |
 
@@ -24,4 +23,5 @@ Tugas yang udah lewat:
 | Graphic Standard Manual           | Identitas Visual     | 6 April 2021         | WA Pak RG             |
 | Karakter Huruf                    | Pengantar Typography | 8 April 2021         | WA Pak Hari           |
 | Sketsa Suasana Stasiun Kereta     | Gambar Sketsa        | 11 April 2021        | Classroom             |
+| Bjirmana Kawat                    | Nirmana Trimatra     | 16 April 2021        | ACC Ka dara/ucup      |
 
