@@ -11,6 +11,6 @@
 - Mingdep (2 Mei 2021) batas asistensi -> Minggu depannya lagi (7 Mei 2021) selesai.
 - Dibuat laporannya juga :v
 
-Cek [disini]() buat liat list tugas.
+Cek [disini](/info-kelas/tugas) buat liat list tugas.
 
 ![](/images/nirmana/catetan-mix.jpeg)
