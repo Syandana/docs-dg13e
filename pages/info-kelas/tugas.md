@@ -9,10 +9,6 @@ Tugas yang lagi berjalan:
 | Creative Visual Concept | Studi Kreatif        | 28 April 2021        | Classroom        |
 | Video Pendek Tipografi  | Pengantar Typography | 30 April 2021        | WA Pak Hari      |
 | Nirmana Mix Media       | Nirmana Trimatra     | 7 Mei 2021           | ACC Ka dara/ucup |
-<<<<<<< HEAD
-=======
-| Video Pendek Tipografi  | Pengantar Typography | 30 April 2021        | WA Pak Hari      |
->>>>>>> dec2e8e876da718567f0a1780b42c15e0f7c9f6c
 
 Tugas yang udah lewat:
 
