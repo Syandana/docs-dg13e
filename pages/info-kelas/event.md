@@ -1,9 +1,9 @@
 # Event Kelas
 Disini adalah list acara-acara kelas yang sedang berlangsung atau yang akan datang. Stay tune terus yaa!
 
-| Event | Tanggal | Deskripsi |
-| ----- | ------- | --------- |
-| -     | -       | -         |
+| Event                 | Tanggal       | Deskripsi               |
+| --------------------- | ------------- | ----------------------- |
+| Buka Degradia (BUDEG) | 30 April 2021 | Lokasinya ada di kanbar |
 
 Event yang sudah lewat:
 
