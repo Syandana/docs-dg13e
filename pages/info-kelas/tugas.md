@@ -7,8 +7,8 @@ Tugas yang lagi berjalan:
 | ----------------------- | -------------------- | -------------------- | ---------------- |
 | Sketsa Tempat Wisata    | Gambar Sketsa        | 26 April 2021, 17:00 | Classroom        |
 | Creative Visual Concept | Studi Kreatif        | 28 April 2021        | Classroom        |
+| Video Pendek Tipografi  | Pengantar Typography | 30 April 2021        | WA Pak Hari      |
 | Nirmana Mix Media       | Nirmana Trimatra     | 7 Mei 2021           | ACC Ka dara/ucup |
-| Video Pendek Tipografi  | Pengantar Typography | 30 Mei 2021          | WA Pak Hari      |
 
 Tugas yang udah lewat:
 
