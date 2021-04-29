@@ -1,5 +1,7 @@
 # Tugas Indo Cuy
 
+> Thanks Laila buat catetannya!
+
 ### Tugas BAB V
 
 ![](/images/tugasindo/bab-5.jpeg)
