@@ -21,4 +21,4 @@ Siapa aja sih yang pernah mengajar kelas DG-E angkatan 13?
 | Nirmana Trimatra    | Ibu Pratiwi                    |
 | Studi Kreatif       | Mas Ogie Urwil                 |
 | Pengantar Tipografi | Bpk. Hari (Gondhils)           |
-| Bahasa Indonesia    | Lupa namanya siapa             |
+| Bahasa Indonesia    | Bpk. Erlan                     |
