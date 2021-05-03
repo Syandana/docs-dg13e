@@ -36,6 +36,7 @@ export default {
   search: true,
   prevLinks: true,
   nextLinks: true,
+  darkMode: true,
   footer: true,
   footerEditOnGitHubLink: false,
   footerText: <>{new Date().getFullYear()} © Syandsign Studio.</>
