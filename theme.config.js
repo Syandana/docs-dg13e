@@ -18,11 +18,11 @@ export default {
       <meta name="description" content="dibuat dengan cinta" />
       <meta name="og:description" content="dibuat dengan cinta" />
       {/* <meta name="twitter:card" content="summary_large_image" /> */}
-      <meta name="twitter:image" content="/apple-icon.png" />
+      <meta name="twitter:image" content="/images/kelas/poto-kelas.jpg" />
       <meta name="twitter:site:domain" content="infokelas-dg13e.vercel.app" />
       <meta name="twitter:url" content="https://infokelas-dg13e.vercel.app/" />
       <meta name="og:title" content="Portal Info DG-E" />
-      <meta name="og:image" content="/apple-icon.png" />
+      <meta name="og:image" content="/images/kelas/poto-kelas.jpg" />
       <meta name="apple-mobile-web-app-title" content="Info DG2E" />
       <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png"/>
       <link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png"/>
