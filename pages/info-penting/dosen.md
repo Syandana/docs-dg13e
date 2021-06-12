@@ -22,3 +22,9 @@ Siapa aja sih yang pernah mengajar kelas DG-E angkatan 13?
 | Studi Kreatif       | Mas Ogie Urwil                 |
 | Pengantar Tipografi | Bpk. Hari (Gondhils)           |
 | Bahasa Indonesia    | Bpk. Erlan                     |
+
+## Semester 3
+
+| Mata Kuliah | Nama Dosen  |
+| ----------- | ----------- |
+| Coming soon | Coming soon |
