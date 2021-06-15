@@ -1,9 +1,9 @@
 # Event Kelas
 Disini adalah list acara-acara kelas yang sedang berlangsung atau yang akan datang. Stay tune terus yaa!
 
-| Event                         | Tanggal            | Deskripsi            |
-| ----------------------------- | ------------------ | -------------------- |
-| Belajar Isometrik Asik Bareng | 14 Juni 2021, 9:00 | Link Gmeet: Menyusul |
+| Event                         | Tanggal             | Deskripsi            |
+| ----------------------------- | ------------------- | -------------------- |
+| Belajar Isometrik Asik Bareng | 15 Juni 2021, 10:00 | Link Gmeet: Menyusul |
 
 Event yang sudah lewat:
 
